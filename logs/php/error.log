@@ -1,0 +1,4 @@
+[18-Nov-2023 16:06:05 UTC] PHP Warning:  Attempt to read property "name" on bool in C:\Users\Awa\Local Sites\publicitaire\app\public\wp-admin\nav-menus.php on line 1215
+[18-Nov-2023 16:13:24 UTC] WordPress database error Duplicate entry '92-6' for key 'PRIMARY' for query INSERT INTO `wp_term_relationships` (`object_id`, `term_taxonomy_id`) VALUES (92, 6) made by wp_nav_menu_update_menu_items, wp_update_nav_menu_item, wp_set_object_terms
+[19-Nov-2023 22:20:09 UTC] Cron reschedule event error for hook: wp_privacy_delete_old_export_files, Error code: could_not_set, Error message: The cron event list could not be saved., Data: {"schedule":"hourly","args":[],"interval":3600}
+[27-Nov-2023 11:27:33 UTC] Cron reschedule event error for hook: recovery_mode_clean_expired_keys, Error code: could_not_set, Error message: The cron event list could not be saved., Data: {"schedule":"daily","args":[],"interval":86400}
